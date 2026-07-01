@@ -5,7 +5,7 @@ Repositório de pesquisas semanais sobre o ecossistema de desenvolvimento modern
 ## Estrutura
 
 ```
-frontend-ai/
+ai-research/
 └── {ano}/
     └── {mês}/
         ├── {data}-frontend-research-result.md   # Front-end + IA aplicada
