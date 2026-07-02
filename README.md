@@ -25,8 +25,8 @@ ai-research/
 
 | Data | Front-end | IA | Infra |
 |---|---|---|---|
-| 01/07/2026 | [link](frontend-ai/2026/July/01-07-frontend-research-result.md) | [link](frontend-ai/2026/July/01-07-ia-research-result.md) | [link](frontend-ai/2026/July/01-07-infra-research-result.md) |
-| 23/06/2026 | [link](frontend-ai/2026/June/23-06-frontend-research-result.md) | [link](frontend-ai/2026/June/23-06-ia-research-result.md) | [link](frontend-ai/2026/June/23-06-infra-research-result.md) |
-| 15/06/2026 | [link](frontend-ai/2026/June/15-06-frontend-research-result.md) | [link](frontend-ai/2026/June/15-06-ia-research-result.md) | [link](frontend-ai/2026/June/15-06-infra-research-result.md) |
-| 08/06/2026 | [link](frontend-ai/2026/June/08-06-frontend-research-result.md) | [link](frontend-ai/2026/June/08-06-ia-research-result.md) | [link](frontend-ai/2026/June/08-06-infra-research-result.md) |
-| 27/05/2026 | [link](frontend-ai/2026/May/27-05-frontend-research-result.md) | [link](frontend-ai/2026/May/27-05-ia-research-result.md) | [link](frontend-ai/2026/May/27-05-infra-research-result.md) |
+| 01/07/2026 | [link](ia-research/2026/July/01-07-frontend-research-result.md) | [link](ia-research/2026/July/01-07-ia-research-result.md) | [link](ia-research/2026/July/01-07-infra-research-result.md) |
+| 23/06/2026 | [link](ia-research/2026/June/23-06-frontend-research-result.md) | [link](ia-research/2026/June/23-06-ia-research-result.md) | [link](ia-research/2026/June/23-06-infra-research-result.md) |
+| 15/06/2026 | [link](ia-research/2026/June/15-06-frontend-research-result.md) | [link](ia-research/2026/June/15-06-ia-research-result.md) | [link](ia-research/2026/June/15-06-infra-research-result.md) |
+| 08/06/2026 | [link](ia-research/2026/June/08-06-frontend-research-result.md) | [link](ia-research/2026/June/08-06-ia-research-result.md) | [link](ia-research/2026/June/08-06-infra-research-result.md) |
+| 27/05/2026 | [link](ia-research/2026/May/27-05-frontend-research-result.md) | [link](ia-research/2026/May/27-05-ia-research-result.md) | [link](ia-research/2026/May/27-05-infra-research-result.md) |
