@@ -25,6 +25,7 @@ ai-research/
 
 | Data | Front-end | IA | Infra |
 |---|---|---|---|
+| 08/09/2026 | [link](ia-research/2026/September/08-09-frontend-research-result.md) | [link](ia-research/2026/September/08-09-ia-research-result.md) | [link](ia-research/2026/September/08-09-infra-research-result.md) |
 | 30/07/2026 | [link](ia-research/2026/July/30-07-frontend-research-result.md) | [link](ia-research/2026/July/30-07-ia-research-result.md) | [link](ia-research/2026/July/30-07-infra-research-result.md) |
 | 23/07/2026 | [link](ia-research/2026/July/23-07-frontend-research-result.md) | [link](ia-research/2026/July/23-07-ia-research-result.md) | [link](ia-research/2026/July/23-07-infra-research-result.md) |
 | 13/07/2026 | [link](ia-research/2026/July/13-07-frontend-research-result.md) | [link](ia-research/2026/July/13-07-ia-research-result.md) | [link](ia-research/2026/July/13-07-infra-research-result.md) |
